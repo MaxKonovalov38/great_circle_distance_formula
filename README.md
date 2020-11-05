@@ -1,0 +1,2 @@
+# great_circle_distance_formula
+Learning program
